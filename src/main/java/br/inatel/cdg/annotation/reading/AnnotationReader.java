@@ -3,8 +3,6 @@ package br.inatel.cdg.annotation.reading;
 import java.lang.reflect.Field;
 import java.lang.reflect.Method;
 
-import br.inatel.cdg.example.ExampleClass1;
-
 //Nessa classe você deverá implementar a sua solução
 //Adicionalmente você também deverá criar
 //a anotação NumberToSum como parte da solução
